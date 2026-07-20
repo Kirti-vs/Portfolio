@@ -10,7 +10,7 @@ import { HiOutlineDownload } from "react-icons/hi";
 function ProfileAside() {
   return (
     <div className="min-h-[93vh] aside_sub_cont flex  justify-center">
-      <div className="relative sub_cont w-full max-w-sm bg-white rounded-2xl overflow-hidden ">
+      <div className="relative sub_cont w-full max-w-sm bg-white rounded-2xl overflow-hidden pb-10">
         {/* Top Dashed Circle */}
         <div className="absolute -top-20 -left-20 w-48 h-48 border-4 border-dashed border-orange-500 rounded-full z-30"></div>
 
