@@ -16,7 +16,7 @@ function ProfileAside() {
 
         <div className="absolute svg_icon -bottom-40 -left-5 w-50 h-50 rotate-[13deg] z-30">
           <img
-            src="../.././public/images/download.svg"
+            src="/images/download.svg"
             alt="" 
           />
         </div>
@@ -25,7 +25,7 @@ function ProfileAside() {
         <div className="relative profile_img z-10 py-8 px-12">
           <div className="rounded-2xl overflow-hidden bg-gradient-to-br from-orange-700 to-orange-500">
             <img
-              src="../../public/images/Kirt-portfolio-2.png"
+              src="/images/Kirt-portfolio-2.png"
               alt="profile"
               className="w-full h-[360px] img_prflie object-cover"
             />
@@ -50,7 +50,7 @@ function ProfileAside() {
         <div className="resume_btn pt-4 px-4">
           <a
             download
-            href="../.././public/Kirti_Ranjan_Das_Resume.pdf"
+            href="/public/Kirti_Ranjan_Das_Resume.pdf"
             className="flex items-center justify-center gap-2 bg-[#F46C38] w-full px-6 py-3 font-bold text-base md:text-lg lg:text-lg rounded-3xl text-white"
           >
             <HiOutlineDownload size={22} />
