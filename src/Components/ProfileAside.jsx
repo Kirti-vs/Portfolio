@@ -25,7 +25,7 @@ function ProfileAside() {
         <div className="relative profile_img z-10 py-8 px-12">
           <div className="rounded-2xl overflow-hidden bg-gradient-to-br from-orange-700 to-orange-500">
             <img
-              src="../.././public/images/Kirt-portfolio-1.png"
+              src="../../public/images/Kirt-portfolio-2.png"
               alt="profile"
               className="w-full h-[360px] img_prflie object-cover"
             />
